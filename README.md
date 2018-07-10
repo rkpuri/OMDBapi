@@ -4,7 +4,7 @@ This is movie search engine App built in ReactJs (create-react-app and webpack),
 
 To run : <br />
 npm install <br />
-npm run start
+npm start
 
 
 For test cases: <br />
