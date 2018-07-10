@@ -8,4 +8,4 @@ npm start
 
 
 For test cases: <br />
-npm test a     OR     npm run test 
+npm test a     <br />OR<br />     npm run test 
